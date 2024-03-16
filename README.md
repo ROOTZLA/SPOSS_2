@@ -13,11 +13,11 @@ P.S.The text in the game is in Swedish
   
 __Welcome to play RPS!__
   
-* Write 1 for Stone
-* Write 2 for Paper
-* Write 3 for Scissors
-* Write 4 for Lizard
-* Write 5 for Spock
+* Write 1 for Rock (Sten beats Scissors and Lizard)
+* Write 2 for Scissors (Scissors beats Paper and Lizard)
+* Write 3 for Paper (Paper beats Stone and Spock)
+* Write 4 for Lizard (Lizard beats Paper and Spock)
+* Write 5 for Spock (Spock beats Rock and Scissors)
   
 __Good luck!__
   
@@ -49,7 +49,7 @@ _If you lost in 5 rounds with a score of 5:0, 4:1 or 3:2_:
 __Tyvärr, förlorade du. Resultat:__
 Sorry, you lost. Results:
 
-  
+![dotCMS logo](img/SPOSS2.jpg)  
 ***
 
 >___Everything in this game is built on WHILE. You can also see how I wrote it using FUNCTION [here](https://github.com/ROOTZLA/SPOSS_1)___.
