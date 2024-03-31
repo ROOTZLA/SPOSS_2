@@ -54,4 +54,8 @@ Sorry, you lost. Results:
 
 >___Everything in this game is built on WHILE. You can also see how I wrote it using FUNCTION [here](https://github.com/ROOTZLA/SPOSS_1)___.
 ***
+## Did You Know?
+
+The game "rock, paper, scissors, lizard, Spock" was invented in 2005 by Sam Klemens and Karen Bryla. This version of the classic "rock, paper, scissors" game expands the possible moves by adding two additional gestures (lizard and Spock) and determining which combinations beat others. It became popular among geek and science fiction fan circles and is often referenced in pop culture, including the popular TV show "The Big Bang Theory".
+***
 [Up](#anchor)
